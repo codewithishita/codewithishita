@@ -56,25 +56,22 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🌱 Currently Building & Learning
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=codewithishita&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=a78bfa&icon_color=c084fc&text_color=e2e8f0&bg_color=0f0f1a" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithishita&theme=tokyonight&hide_border=true&background=0f0f1a&ring=7c3aed&fire=c084fc&currStreakLabel=a78bfa" height="160"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithishita&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0f1a&title_color=a78bfa&text_color=e2e8f0" height="140"/>
-</div>
+| Area | What I'm doing |
+|------|---------------|
+| 🤖 AI & LLMs | Integrating language models into real products |
+| ☁️ Cloud | Getting hands-on with AWS — EC2, S3, Lambda |
+| 🏗️ Backend | Deepening knowledge of APIs, auth flows & DB design |
+| 🔐 Security | Exploring cybersecurity concepts through projects |
+| 📦 System Design | Building intuition for scalable architecture |
 
 ---
 
 ## 📍 Currently
 
 - 📚 Pursuing B.Tech in Computer Science
-- 🤖 Building at the intersection of AI and full-stack web development
+- 🤖 Building at the intersection of AI and full-stack web development  
 - ☁️ Exploring cloud infrastructure and backend systems at scale
 - 🟢 **Open to internships and entry-level opportunities**
 
