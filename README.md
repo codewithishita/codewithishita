@@ -11,6 +11,10 @@
   interests  →  AI · Backend · Cloud · Problem Solving
 ```
 
+<div align="center">
+  <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="180" alt="coding dog"/>
+</div>
+
 ---
 
 ## ⚡ Tech Stack
