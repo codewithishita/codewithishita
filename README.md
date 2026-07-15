@@ -11,10 +11,6 @@
   interests  →  AI · Backend · Cloud · Problem Solving
 ```
 
-<div align="center">
-  <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="180" alt="coding dog"/>
-</div>
-
 ---
 
 ## ⚡ Tech Stack
@@ -57,6 +53,14 @@
 > Detects digitally altered images using pixel-level computer vision analysis — security meets image processing.
 >
 > `Python` `OpenCV` `Image Processing`
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/codewithishita/codewithishita/output/snake.svg" alt="contribution snake animation"/>
+</div>
 
 ---
 
