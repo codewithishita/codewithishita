@@ -71,19 +71,6 @@ I pick up new stacks mid-project when the problem calls for it — that's how Dj
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=codewithishita&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=c084fc&icon_color=c084fc&text_color=c4b5fd" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithishita&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=c084fc&text_color=c4b5fd" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithishita&theme=tokyonight&hide_border=true&background=1e1e2e&ring=c084fc&fire=f472b6&currStreakLabel=c084fc" />
-</div>
-
----
-
 ## 🐍 Contribution Graph
 
 <div align="center">
